@@ -1,5 +1,5 @@
 xrdb .Xresources &
 ~/.fehbg &
 picom -b &
-dwmblocks &
+slstatus &
 exec dwm
