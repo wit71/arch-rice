@@ -1,5 +1,5 @@
 xrdb .Xresources &
-~/.fehbg &
+~/.config/wall/.fehbg &
 picom -b &
 slstatus &
 dunst &
